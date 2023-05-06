@@ -161,3 +161,5 @@ cython_debug/
 
 *.fits
 *.DS_Store
+*.h5
+*.sh
