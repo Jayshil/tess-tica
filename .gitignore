@@ -163,3 +163,5 @@ cython_debug/
 *.DS_Store
 *.h5
 *.sh
+*.dat
+*.npy
